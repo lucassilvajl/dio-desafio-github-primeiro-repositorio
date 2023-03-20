@@ -9,3 +9,5 @@ Link para o material da aula 3: https://drive.google.com/drive/folders/1KmAdo593
 
 Link para a aula 4: https://www.youtube.com/watch?v=J2Proou1Ics
 Link para o material da aula 4: https://drive.google.com/drive/folders/1o2lpxoi9heyQV1hIlsHXWSfDkBPtze-V
+
+Link para do vídeo explicando a instalação do aplicativo Jupyter: https://www.youtube.com/watch?v=_eK0z5QbpKA
